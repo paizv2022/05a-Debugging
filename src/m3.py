@@ -52,6 +52,8 @@ def main():
 #   Instead, ** CALL ** this function as needed in the problems below.
 #   There are NO errors in this  is_prime  function.
 ###############################################################################
+
+
 def is_prime(n):
     """
     What comes in:  An integer n >= 2.
@@ -100,7 +102,7 @@ def run_test_broken_1():
 
 
 # -----------------------------------------------------------------------------
-# TODO: 3. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
+# DONE: 3. Follow the INSTRUCTIONS AT THE TOP OF THIS MODULE
 #          to correct the mistake(s) in the following function.
 # -----------------------------------------------------------------------------
 def broken_1(m):
